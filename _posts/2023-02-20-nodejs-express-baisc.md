@@ -2,7 +2,7 @@
 layout: post
 title:  "[NODEJS]Nodejs 와 Express 로 웹서버를 구축하기"
 date:   2023-02-0220 20:00:00 +0900
-categories: node.js
+categories: jekyll update
 ---
 
 
