@@ -5,6 +5,8 @@ date:   2023-02-20 20:00:00 +0900
 categories: jekyll update
 ---
 
+## [NODEJS]JSON + Fetch API로 웹서버 통신하기
+
 ### Step1 POST 요청 처리
 
 POST 방식으로 form 데이터를 서버로 보냈을 떄, 서버에서 처리하는 방법을 알아본다. 
