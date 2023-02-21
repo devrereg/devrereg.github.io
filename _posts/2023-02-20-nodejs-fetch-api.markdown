@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "[NODEJS]JSON + Fetch API로 웹서버 통신하기"
-date:   2023-02-0220 20:00:00 +0900
+date:   2023-02-20 20:00:00 +0900
 categories: jekyll update
 ---
 
